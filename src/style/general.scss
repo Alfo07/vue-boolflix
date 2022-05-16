@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+$fa-font-path: './webfonts';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+
+@import './vars.scss';
+
+body{
+    height: 100vh;
+}
